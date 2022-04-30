@@ -3,8 +3,7 @@
 
  
  ## HOW TO USE
- 
- <h1>Nothing to worry............😎😎<br>
-    ->Just Clone this Repository <br>
-    ->Open ``index.html`` file in browser<br>
-    ->enjoy </h1>
+  Nothing to worry............😎😎
+    ->Just Clone this Repository
+    ->Open ``index.html`` file in browser
+    ->enjoy

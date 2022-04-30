@@ -1,5 +1,5 @@
 # Wishes for Birthday
-![hf (2)](https://user-images.githubusercontent.com/95665347/166089775-f7d54396-a79b-46b3-90b8-f2dd44137641.jpg)
+![bday](https://user-images.githubusercontent.com/95665347/166089749-ecf5835a-a30a-4f50-9ba0-8f9c2e32d90b.jpg)
  
  ## HOW TO USE
  

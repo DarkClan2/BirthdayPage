@@ -1,5 +1,6 @@
 # Wishes for Birthday
-![bday](https://user-images.githubusercontent.com/95665347/166089749-ecf5835a-a30a-4f50-9ba0-8f9c2e32d90b.jpg)
+![birthday-cake-candles-line-dot-600w-2144649271](https://user-images.githubusercontent.com/95665347/166090792-ab0ff99d-2a99-442c-9396-585c63283a42.jpg)
+
  
  ## HOW TO USE
  

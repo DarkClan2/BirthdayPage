@@ -8,3 +8,11 @@ Nothing to worry............
 1-) Just Clone this Repository
 2-) Open ``index.html`` file in browser
 3-) Enjoy
+
+**HOW TO USE**:
+
+👉 Just Clone this Repository
+
+👉 Open ``index.html`` file in browser
+
+👉 Enjoy
